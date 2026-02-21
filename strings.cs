@@ -159,4 +159,33 @@
     Console.WriteLine(mesaj);
 */
 //---------------------------------------------------------------------------------------------
+/*
+    Kullanıcı Mesaj Oluşturma
 
+    Kullanıcıdan:
+    ad
+    soyad
+    şehir
+    Al.
+
+    Ve şu şekilde yazdır:
+    Merhaba ben Ahmet Turan, İstanbul şehrinde yaşıyorum.
+*/
+
+/*
+    Console.WriteLine("Merhaba, ad, soyad ve şehir bilgisi girin ve sizin için mesaj oluşturalım.");
+
+    Console.Write("Ad: ");
+    string ad = Console.ReadLine();
+
+    Console.Write("Soyad: ");
+    string soyad = Console.ReadLine();
+
+    Console.Write("Şehir: ");
+    string sehir = Console.ReadLine();
+
+    string mesaj = $"Merhaba ben {ad} {soyad}, {sehir} şehrinde yaşıyorum.";
+
+    Console.WriteLine(mesaj);
+*/
+//---------------------------------------------------------------------------------------------
