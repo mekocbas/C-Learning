@@ -12,3 +12,4 @@ C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\refint\consoleAp
 C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\consoleApp.pdb
 C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\consoleApp.genruntimeconfig.cache
 C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\ref\consoleApp.dll
+C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\consoleApp.sourcelink.json
