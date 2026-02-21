@@ -38,3 +38,31 @@
 
     Console.WriteLine(mesaj);
 */
+
+/*
+    Çalışma 01
+
+    String Birleştirme (Concat)
+
+    Kullanıcıdan:
+    Ad
+    Soyad
+    Meslek
+
+    Bilgilerini al ve + operatörü kullanarak şu formatta yazdır:
+    Ahmet Turan isimli kişi Yazılımcı olarak çalışıyor.
+*/
+/*
+    Console.Write("Ad: ");
+    string ad = Console.ReadLine();
+
+    Console.Write("Soyad: ");
+    string soyad = Console.ReadLine();
+
+    Console.Write("Meslek: ");
+    string meslek = Console.ReadLine();
+
+    string mesaj = ad + " " + soyad + " isimli kişi " + meslek + " olarak çalışıyor.";
+    Console.WriteLine(mesaj);
+*/
+
