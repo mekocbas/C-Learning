@@ -194,17 +194,40 @@
 */
 //---------------------------------------------------------------------------------------------
 /*
-İsim Uzunluğu
+    Çalışma 06
 
-Kullanıcıdan adını al.
+    İsim Uzunluğu
 
-Sonra şu formatta yazdır:
-Ahmet ismi 5 karakterden oluşuyor.
+    Kullanıcıdan adını al.
+
+    Sonra şu formatta yazdır:
+    Ahmet ismi 5 karakterden oluşuyor.
 */
 
-Console.Write("Ad: ");
-string ad = Console.ReadLine();
+/*
+    Console.Write("Ad: ");
+    string ad = Console.ReadLine();
 
-string mesaj = $"{ad} ismi {ad.Length} karakterden oluşuyor.";
-Console.WriteLine(mesaj);
+    string mesaj = $"{ad} ismi {ad.Length} karakterden oluşuyor.";
+    Console.WriteLine(mesaj);
+*/
+//---------------------------------------------------------------------------------------------
+/*
+    Çalışma 07
+
+    Büyük Harf
+
+    Kullanıcıdan bir şehir ismi al.
+
+    Sonra tamamını büyük harf yaparak yazdır.
+*/
+
+/*
+    Console.Write("Bir şehir giriniz: ");
+    string sehir = Console.ReadLine();
+
+    string mesaj = $"{sehir.ToUpper()}";
+
+    Console.WriteLine(mesaj);
+*/
 
