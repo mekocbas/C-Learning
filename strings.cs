@@ -38,7 +38,7 @@
 
     Console.WriteLine(mesaj);
 */
-
+//---------------------------------------------------------------------------------------------
 /*
     Çalışma 01
 
@@ -52,6 +52,7 @@
     Bilgilerini al ve + operatörü kullanarak şu formatta yazdır:
     Ahmet Turan isimli kişi Yazılımcı olarak çalışıyor.
 */
+
 /*
     Console.Write("Ad: ");
     string ad = Console.ReadLine();
@@ -65,4 +66,40 @@
     string mesaj = ad + " " + soyad + " isimli kişi " + meslek + " olarak çalışıyor.";
     Console.WriteLine(mesaj);
 */
+//---------------------------------------------------------------------------------------------
+/*
+    Çalışma 02
 
+    String Interpolation
+
+    Bu sefer aynı şeyi yap ama:
+    Ad
+    Soyad
+    Doğum yılı
+    Al.
+
+    Kişinin yaşını hesapla (2026 - doğumYili).
+
+    Ve interpolation kullanarak şöyle yazdır:
+    Ahmet Turan 26 yaşındadır.
+
+    ⚠️ Burada yaş int olmalı. String değil.
+*/
+
+/*
+    Console.Write("Ad: ");
+    string ad = Console.ReadLine();
+
+    Console.Write("Soyad: ");
+    string soyad = Console.ReadLine();
+
+    Console.Write("Doğum Yılı: ");
+    int dogumYili = Convert.ToInt32(Console.ReadLine());
+
+    int yas = 2026 - dogumYili;
+
+    string mesaj = $"{ad} {soyad} {yas} yaşındadır";
+
+    Console.WriteLine(mesaj);
+*/
+//---------------------------------------------------------------------------------------------
