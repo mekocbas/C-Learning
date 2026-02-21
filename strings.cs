@@ -230,4 +230,73 @@
 
     Console.WriteLine(mesaj);
 */
+//---------------------------------------------------------------------------------------------
+/*
+    Çalışma 08
 
+    Küçük Harf + Format
+
+    Kullanıcıdan ad ve soyad al.
+
+    İkisini de küçük harfe çevirip şu şekilde yazdır:
+
+    ahmet.turan
+*/
+
+/*
+    Console.Write("Ad: ");
+    string ad = Console.ReadLine();
+
+    Console.Write("Soyad: ");
+    string soyad = Console.ReadLine();
+
+    string mesaj = $"{ad.ToLower()}.{soyad.ToLower()}";
+
+    Console.WriteLine(mesaj);
+*/
+//---------------------------------------------------------------------------------------------
+/*
+    Çalışma 09
+
+    İlk ve Son Harf
+
+    Kullanıcıdan bir kelime al.
+
+    Şu formatta yazdır:
+    İlk harf: A
+    Son harf: t
+*/
+
+/*
+    Console.Write("Bir kelime girin: ");
+    string kelime = Console.ReadLine();
+
+    Console.WriteLine("İlk harf: " + kelime[0]);
+    Console.WriteLine("Son harf: " + kelime[kelime.Length - 1]);
+*/
+//---------------------------------------------------------------------------------------------
+/*
+    Çalışma 10
+
+    Ortadaki Harf
+
+    Kullanıcıdan bir kelime al.
+
+    Kelimenin ortadaki harfini yazdır.
+
+    Örnek:
+    Ahmet
+
+    Çıktı:
+    Ortadaki harf: m
+*/
+
+/*
+    Console.Write("Bir kelime girin: ");
+    string kelime = Console.ReadLine();
+
+    char ortadaki = kelime[kelime.Length/2];
+
+    Console.WriteLine("Ortadaki harf: " + ortadaki);
+*/
+//---------------------------------------------------------------------------------------------
