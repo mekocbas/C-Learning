@@ -135,4 +135,28 @@
     Console.WriteLine(toplam);
 */
 //---------------------------------------------------------------------------------------------
+/*
+    Büyük Harfli İsim Formatı
+
+    Kullanıcıdan:
+    ad
+    soyad
+    Al.
+
+    Sonra şu formatta yazdır:
+    A.Turan
+*/
+
+/*
+    Console.Write("Ad: ");
+    string ad = Console.ReadLine();
+
+    Console.Write("Soyad: ");
+    string soyad = Console.ReadLine();
+
+    string mesaj = $"{ad[0]}.{soyad}";
+
+    Console.WriteLine(mesaj);
+*/
+//---------------------------------------------------------------------------------------------
 
