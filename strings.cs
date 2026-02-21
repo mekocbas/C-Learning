@@ -193,3 +193,18 @@
     Console.WriteLine(mesaj);
 */
 //---------------------------------------------------------------------------------------------
+/*
+İsim Uzunluğu
+
+Kullanıcıdan adını al.
+
+Sonra şu formatta yazdır:
+Ahmet ismi 5 karakterden oluşuyor.
+*/
+
+Console.Write("Ad: ");
+string ad = Console.ReadLine();
+
+string mesaj = $"{ad} ismi {ad.Length} karakterden oluşuyor.";
+Console.WriteLine(mesaj);
+
