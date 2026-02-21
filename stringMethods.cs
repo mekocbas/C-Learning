@@ -19,3 +19,49 @@
 
     Console.WriteLine(sonuc);
 */
+//-------------------------------------------------------------------------------------------------------------------------------
+/*
+    Soru 01
+
+    Gizli Boşluk
+
+    Kullanıcıdan isim al.
+
+    Kullanıcı başına ve sonuna boşluk koyabilir.
+
+    İsmi temizleyip (Trim) kaç karakter olduğunu yazdır.
+*/
+
+/*
+    Console.Write("İsim girin: ");
+    string isim = Console.ReadLine();
+
+    isim = isim.Trim();
+
+    int karakter = isim.Length;
+
+    Console.WriteLine($"İsim {karakter} tane harften oluşuyor.");
+*/
+//-------------------------------------------------------------------------------------------------------------------------------
+/*
+    Soru 02
+
+    Domain Ayıklama
+
+    Kullanıcıdan bir e-posta al.
+
+    Örnek:
+    enes@gmail.com
+
+    Sadece domain kısmını yazdır:
+    gmail.com
+*/
+
+Console.Write("Email adresinizi girin: ");
+string email = Console.ReadLine();
+
+var emailDomainBaslangic = email.IndexOf("@"); 
+
+var emailDomain = email.Substring(emailDomainBaslangic + 1);
+
+Console.WriteLine(emailDomain);
