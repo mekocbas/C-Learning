@@ -103,3 +103,36 @@
     Console.WriteLine(mesaj);
 */
 //---------------------------------------------------------------------------------------------
+/*
+    Çalışma 03
+
+    Tip Dönüşümü
+
+    Kullanıcıdan iki sayı al.
+
+    Ama Console.ReadLine() string döndürür biliyorsun.
+
+    Bu iki sayıyı toplayıp sonucu yazdır.
+
+    Örnek:
+
+    Sayı 1: 5
+    Sayı 2: 7
+    Toplam: 12
+*/
+
+/*
+    Console.WriteLine("2 adet sayı girin.");
+
+    Console.Write("1.Sayı: ");
+    int sayi1 = Convert.ToInt32(Console.ReadLine());
+
+    Console.Write("2.Sayı: ");
+    int sayi2 = Convert.ToInt32(Console.ReadLine());
+
+    int toplam = sayi1 + sayi2;
+
+    Console.WriteLine(toplam);
+*/
+//---------------------------------------------------------------------------------------------
+
