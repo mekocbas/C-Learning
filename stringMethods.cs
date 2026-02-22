@@ -102,3 +102,32 @@
     Console.WriteLine("Kullanıcı adı: " + kullaniciAdi);
 */
 //-------------------------------------------------------------------------------------------------------------------------------
+/*
+    Soru 04
+
+    İlk Kelimeyi Büyük Yap
+
+    Kullanıcıdan bir cümle al.
+
+    Sadece ilk kelimenin ilk harfini büyük yap.
+
+    Örnek:
+    ahmet turan yazılım öğreniyor
+
+    Çıktı:
+    Ahmet turan yazılım öğreniyor
+*/
+
+/*
+    Console.Write("Bir cümle girin: ");
+    string mesaj = Console.ReadLine();
+
+    string ilkHarf = mesaj.Substring(0,1).ToUpper();
+    string geriKalan = mesaj.Substring(1);
+
+    string sonuc = ilkHarf + geriKalan;
+
+    Console.WriteLine(sonuc);
+*/
+
+
