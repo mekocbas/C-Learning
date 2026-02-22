@@ -8,32 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\merve\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\artvi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\merve\\OneDrive\\Masaüstü\\consoleApp\\consoleApp.csproj",
+      "projectUniqueName": "C:\\C#\\C-Learning\\consoleApp.csproj",
       "projectName": "consoleApp",
-      "projectPath": "C:\\Users\\merve\\OneDrive\\Masaüstü\\consoleApp\\consoleApp.csproj",
-      "packagesPath": "C:\\Users\\merve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\merve\\OneDrive\\Masaüstü\\consoleApp\\obj\\",
+      "projectPath": "C:\\C#\\C-Learning\\consoleApp.csproj",
+      "packagesPath": "C:\\Users\\artvi\\.nuget\\packages\\",
+      "outputPath": "C:\\C#\\C-Learning\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\merve\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\artvi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
