@@ -57,11 +57,14 @@
     gmail.com
 */
 
-Console.Write("Email adresinizi girin: ");
-string email = Console.ReadLine();
+/*
+    Console.Write("Email adresinizi girin: ");
+    string email = Console.ReadLine();
 
-var emailDomainBaslangic = email.IndexOf("@"); 
+    var emailDomainBaslangic = email.IndexOf("@"); 
 
-var emailDomain = email.Substring(emailDomainBaslangic + 1);
+    var emailDomain = email.Substring(emailDomainBaslangic + 1);
 
-Console.WriteLine(emailDomain);
+    Console.WriteLine(emailDomain);
+*/
+//-------------------------------------------------------------------------------------------------------------------------------
