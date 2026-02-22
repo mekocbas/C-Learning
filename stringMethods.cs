@@ -68,3 +68,37 @@
     Console.WriteLine(emailDomain);
 */
 //-------------------------------------------------------------------------------------------------------------------------------
+/*
+    Soru 03
+
+    Kullanıcı Adı Üretme
+
+    Kullanıcıdan ad ve soyad al.
+
+    Kullanıcı adı üret:
+    adın ilk 3 harfi
+    soyadın ilk 3 harfi
+    hepsi küçük harf
+
+    Örnek:
+    Ahmet Turan
+
+    Çıktı:
+    ahmtur
+*/
+
+/*
+    Console.Write("Ad: ");
+    string ad = Console.ReadLine();
+
+    Console.Write("Soyad: ");
+    string soyad = Console.ReadLine();
+
+    string adYeni = ad.Substring(0,3);
+    string soyadYeni = soyad.Substring(0,3);
+    string kullaniciAdi = adYeni+soyadYeni;
+    kullaniciAdi = kullaniciAdi.ToLower();
+
+    Console.WriteLine("Kullanıcı adı: " + kullaniciAdi);
+*/
+//-------------------------------------------------------------------------------------------------------------------------------
