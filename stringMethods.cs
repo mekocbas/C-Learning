@@ -129,5 +129,20 @@
 
     Console.WriteLine(sonuc);
 */
+//-------------------------------------------------------------------------------------------------------------------------------
+/* 
+Soru 05
 
+string kursAdi = ".Net 7 ile C# Programlama Dili";
 
+1- Kaç karaktere sahiptir?
+2- Hepsini küçük harf yapınız.
+3- '.' ile mi başlamaktadır?
+4- C# bilgisi hangi konumda bulunmaktadır?
+5- String 'C#' bilgisini içeriyor mu?
+6- 'Dili' kelimesi yerine 'Dersleri' yazınız. (replace)
+*/
+
+string kursAdi = ".Net 7 ile C# Programlama Dili";
+
+Console.WriteLine($"Bu yazı {kursAdi.Length} karaktere sahip.");
