@@ -143,6 +143,7 @@ string kursAdi = ".Net 7 ile C# Programlama Dili";
 6- 'Dili' kelimesi yerine 'Dersleri' yazınız. (replace)
 */
 
+/*
 string kursAdi = ".Net 7 ile C# Programlama Dili";
 
 Console.WriteLine($"Bu yazı {kursAdi.Length} karaktere sahip.");
@@ -152,3 +153,5 @@ Console.WriteLine($"C# yazısının konumu " + kursAdi.IndexOf("C#"));
 Console.WriteLine($"Cümle 'C#' bilgisi içeriyor mu? " + kursAdi.Contains("C#"));
 var guncel = kursAdi.Replace("Dili","Dersleri");
 Console.WriteLine(guncel);
+*/
+//-------------------------------------------------------------------------------------------------------------------------------
