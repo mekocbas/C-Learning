@@ -18,3 +18,13 @@ C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\consoleApp.Assem
 C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\consoleApp.AssemblyInfo.cs
 C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\consoleApp.csproj.CoreCompileInputs.cache
 C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\consoleApp.sourcelink.json
+C:\Users\merve\OneDrive\Masaüstü\consoleApp\bin\Debug\net10.0\consoleApp.exe
+C:\Users\merve\OneDrive\Masaüstü\consoleApp\bin\Debug\net10.0\consoleApp.deps.json
+C:\Users\merve\OneDrive\Masaüstü\consoleApp\bin\Debug\net10.0\consoleApp.runtimeconfig.json
+C:\Users\merve\OneDrive\Masaüstü\consoleApp\bin\Debug\net10.0\consoleApp.dll
+C:\Users\merve\OneDrive\Masaüstü\consoleApp\bin\Debug\net10.0\consoleApp.pdb
+C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\consoleApp.dll
+C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\refint\consoleApp.dll
+C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\consoleApp.pdb
+C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\consoleApp.genruntimeconfig.cache
+C:\Users\merve\OneDrive\Masaüstü\consoleApp\obj\Debug\net10.0\ref\consoleApp.dll

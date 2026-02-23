@@ -146,3 +146,6 @@ string kursAdi = ".Net 7 ile C# Programlama Dili";
 string kursAdi = ".Net 7 ile C# Programlama Dili";
 
 Console.WriteLine($"Bu yazı {kursAdi.Length} karaktere sahip.");
+Console.WriteLine(kursAdi.ToLower());
+Console.WriteLine($"Cümle . ile mi başlıyor " + kursAdi.StartsWith("."));
+
