@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("consoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e16a9a0d135e449278370a168b2467a82e4a499")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8bfaa2cc9db7dbd4d7c89f6eb5d597f0bbb698f")]
 [assembly: System.Reflection.AssemblyProductAttribute("consoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("consoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
