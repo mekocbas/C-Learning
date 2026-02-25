@@ -87,14 +87,35 @@ Sonuç a= 20 b=19
     sonuc kaç?
 */
 
-int a = 5;
-int b = 2;
+/*
+    int a = 5;
+    int b = 2;
 
-int sonuc = a++ * ++b;
+    int sonuc = a++ * ++b;
 
-Console.WriteLine(a);
-Console.WriteLine(b);
+    Cevap
+    a = 6
+    b = 3
+    sonuc = 15
+*/
+//--------------------------------------------------------------------------------------------------------------------------------------
+/*
+    Soru 06
+
+int a = 10;
+    int b = 3;
+
+    int sonuc = a / b + a % b * 2;
+*/
+
+int a = 10;
+int b = 3;
+
+int sonuc = a / b + a % b * 2;
+
 Console.WriteLine(sonuc);
+
+
 
 
 
