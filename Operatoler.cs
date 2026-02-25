@@ -102,19 +102,66 @@ Sonuç a= 20 b=19
 /*
     Soru 06
 
-int a = 10;
+    int a = 10;
     int b = 3;
 
     int sonuc = a / b + a % b * 2;
 */
 
-int a = 10;
-int b = 3;
+/*
+    int a = 10;
+    int b = 3;
 
-int sonuc = a / b + a % b * 2;
+    int sonuc = a / b + a % b * 2;
 
-Console.WriteLine(sonuc);
+    Sonuç = 5 (çarpma işlemi modun önüne geçmez)
+*/
+//--------------------------------------------------------------------------------------------------------------------------------------
+/*
+    Soru 07
 
+    int a = 4;
+
+    int sonuc = a++ + ++a + a;
+
+    İşlem bittikten sonra:
+    a kaç?
+    sonuc kaç?
+*/
+
+/*
+    int a = 4;
+
+    int sonuc = a++ + ++a + a;
+
+    // a = 6
+    // sonuc = 16
+
+    Console.WriteLine(sonuc);
+*/
+//--------------------------------------------------------------------------------------------------------------------------------------
+/*
+    Soru 08
+
+    int? a = null;
+    int b = 3;
+
+    int sonuc = (a ?? b++) + (++b);
+
+    İşlem bittikten sonra:
+    b kaç?
+    sonuc kaç?
+*/
+
+    int? a = null;
+    int b = 3;
+
+    int sonuc = (a ?? b++) + (++b);
+
+    // b = 3
+    // sonuc = 3 + 5 = 8
+
+    Console.WriteLine(sonuc);
 
 
 
