@@ -72,4 +72,29 @@ Sonuç a= 20 b=19
 
     Console.WriteLine(sonuc);
 */
+//--------------------------------------------------------------------------------------------------------------------------------------
+/*
+    Soru 05
+
+    int a = 5;
+    int b = 2;
+
+    int sonuc = a++ * ++b;
+
+    İşlem bittikten sonra:
+    a kaç?
+    b kaç?
+    sonuc kaç?
+*/
+
+int a = 5;
+int b = 2;
+
+int sonuc = a++ * ++b;
+
+Console.WriteLine(a);
+Console.WriteLine(b);
+Console.WriteLine(sonuc);
+
+
 
